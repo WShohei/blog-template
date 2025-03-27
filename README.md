@@ -7,10 +7,19 @@ This is a Blog Template built with Next.js.
 >
 > If you want to monetize your blog, you **MUST** host the embed server yourself.
 
+## Getting Started
+
+Run the development server:
+```bash
+npm run dev
+```
+Then open http://localhost:3000 in your browser.
+
 ## Functionality
 * Tag-based search
     * Supports nested tags
 * Write articles using Markdown
+    * Example articles can be found in `src/content/posts`
 
 ## Examples
 
